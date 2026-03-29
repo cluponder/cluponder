@@ -56,7 +56,7 @@
             "Info": ""       
         },
         {
-            "Name": "MOVISTAR SIN RESES 1🌐",
+            "Name": "MOVISTAR SIN RESES 1🇸🇻",
             "FLAG": "oi",
             "Payload": "",
             "SNI": "www.googletagmanager.com",
@@ -66,7 +66,7 @@
             "Info": "Ssl"         
         },
         {
-            "Name": "MOVISTAR SIN REDES 2🌐",
+            "Name": "MOVISTAR SIN REDES 2🇸🇻",
             "FLAG": "oi",
             "Payload": "",
             "SNI": "www.google.com",
@@ -76,7 +76,7 @@
             "Info": "Ssl"         
         },
             {
-            "Name": "TIGO FULL 1🌐",
+            "Name": "TIGO FULL 1🇸🇻",
             "FLAG": "tim",
             "Payload": "HTTP/1.6 200 ok[crlf]Host: [rotate=www.empire.co.ke.com;www.atresplayer.com;www.aol.com;wap.yy.com;net.supercell.com;www.disney.com;www.bbc.com;www.godaddy.com;adclick.g.doubleclick.net;www.buzzfeed.com;www.alipay.com;www.monster.com;www.playstation.net;mail.hotmail.com;ads.mopub.com;m.weibo.cn;www.flickr.com;d1n212ccp6ldpw.cloudfront.net][crlf][ua]",
             "SNI": "",

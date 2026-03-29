@@ -1,5 +1,5 @@
 {
-   "Version": "1.1.0",
+   "Version": "1.1.1",
     "ReleaseNotes": "HAY UNA NUEVA ACTUALIZACIO😎",
     "UrlUpdate": "https://raw.githubusercontent.com/cluponder/cluponder/refs/heads/main/config.json",
     "Sms": "",
@@ -46,16 +46,6 @@
     ],
  "Networks": [
         {
-            "Name": "ACTUALIZAR SERVIDORES",
-            "FLAG": "claro",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": ""       
-        },
-        {
             "Name": "MOVISTAR SIN RESES 1🇸🇻",
             "FLAG": "oi",
             "Payload": "",
@@ -76,7 +66,7 @@
             "Info": "Ssl"         
         },
             {
-            "Name": "TIGO FULL 1🇸🇻",
+            "Name": "TIGO SV 1🇸🇻",
             "FLAG": "tim",
             "Payload": "HTTP/1.6 200 ok[crlf]Host: [rotate=www.empire.co.ke.com;www.atresplayer.com;www.aol.com;wap.yy.com;net.supercell.com;www.disney.com;www.bbc.com;www.godaddy.com;adclick.g.doubleclick.net;www.buzzfeed.com;www.alipay.com;www.monster.com;www.playstation.net;mail.hotmail.com;ads.mopub.com;m.weibo.cn;www.flickr.com;d1n212ccp6ldpw.cloudfront.net][crlf][ua]",
             "SNI": "",
@@ -84,6 +74,26 @@
             "ProxyIP": "20.199.169.199",
             "ProxyPort": "80",
             "Info": "Proxy"                    
-            }
+            },
+        {
+            "Name": "TIGO SV 2🇸🇻",
+            "FLAG": "tim",
+            "Payload": "HTTP/2 200 ok[crlf]Host:http://axiomac.com:80.google.com;https://itunes.apple.com[crlf]Connexion :keep-alive[crlf]auth.mtn.ci[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "20.199.169.199",
+            "ProxyPort": "80",
+            "Info": "Proxy"                   
+        },
+        {
+            "Name": "TIGO SV 3🇸🇻",
+            "FLAG": "tim",
+       "Payload": "HTTP/2.0  200[crlf]Host:[random=awsclonfrontdns.k.admcgh.online;about.meituan.com;tv.kankan.com;store.steampowered.com;map.baidu.com;list.tmall.com;yandex.com;qzone.qq.com;v.qq.com;y.qq.com;www.bb.com.br;ok.ru;www.dropbox.com;www.epicgames.com;youku.com;sll.zc.qq.com;www.tiktok.com;tidal.com;www.funk.com;gsuite.google.com;www.voxer.com]\n200 Connection established\nProxy-Connection: close\nConnection-Keep-true\nControl-Cache: no-cache\nContent-Length: 9999999999999999999\nUser-Agent: Yes \nContent-Encoding: 88888888\nContent-Language: 00000000\nContent-Length: 55555555\nContent-Location:33333333[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "20.199.169.199",
+            "ProxyPort": "80",
+            "Info": "Proxy"                  
+        }
     ]
 }

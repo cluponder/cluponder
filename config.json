@@ -1,5 +1,5 @@
 {
-   "Version": "1.0.0",
+   "Version": "1.0.1",
     "ReleaseNotes": "HAY UNA NUEVA ACTUALIZACIO😎",
     "UrlUpdate": "https://raw.githubusercontent.com/cluponder/cluponder/refs/heads/main/config.json",
     "Sms": "",
@@ -74,6 +74,16 @@
             "ProxyIP": "20.199.169.199",
             "ProxyPort": "443",
             "Info": "Ssl"         
-        }
+        },
+            {
+            "Name": "TIGO FULL 1🌐",
+            "FLAG": "tim",
+            "Payload": "HTTP/1.6 200 ok[crlf]Host: [rotate=www.empire.co.ke.com;www.atresplayer.com;www.aol.com;wap.yy.com;net.supercell.com;www.disney.com;www.bbc.com;www.godaddy.com;adclick.g.doubleclick.net;www.buzzfeed.com;www.alipay.com;www.monster.com;www.playstation.net;mail.hotmail.com;ads.mopub.com;m.weibo.cn;www.flickr.com;d1n212ccp6ldpw.cloudfront.net][crlf][ua]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "20.199.169.199",
+            "ProxyPort": "80",
+            "Info": "Proxy"                    
+            }
     ]
 }

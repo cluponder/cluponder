@@ -1,0 +1,79 @@
+{
+   "Version": "1.0.4",
+    "ReleaseNotes": "HAY UNA NUEVA ACTUALIZACIO😎",
+    "UrlUpdate": "https://www.dropbox.com/scl/fi/c9o2opfpt1rshmtx81p6h/config.json?rlkey=42giqsezltonsyofoniovzwa1&e=2&st=40whgd2d&dl=0",
+    "Sms": "",
+    "logoonline": "",
+    "fundoonline": "",
+    "banneRodapeOnline": "",
+    "fundoDoLogOnline": "",
+    "EmailFeedback": "",
+    "UrlContato": "",
+    "UrlTermos": "",
+    "CheckUser": "true",
+    "ModderLinkWhatsapp": "https://chat.whatsapp.com/HcvWuEqdqMSDZxqAyV5XAG?mode=hqrt1",
+    "ModderLinkTelegram": "https://t.me/felixpremium",
+    "ModderCorCaixaServ": "",
+    "ModderCorCaixaPay": "",
+    "ModderCorCaixaCentral": "",
+    "ModderCorCaixaConexao": "",
+    "ModderCorCaixaRegistro": "",
+    "ModderCorCaixaFerramentas": "",
+    "ModderCorCaixaUsuario": "",
+    "ModderCorCaixaSenha": "",
+    "ModderCorBotaoIniciar": "",
+    "ModderCorBotaoLog": "",
+    "ModderCorBotaoConfig": "",
+    "DnsPrimario": "",
+    "DnsSecundario": "",
+    "Udp": [
+        {
+            "Porta": ""
+        }
+    ],
+        "Servers": [
+        {
+            "Name": "FELIX PREMIUM",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "20.199.169.199",
+            "CheckUser": "",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        }
+    ],
+ "Networks": [
+        {
+            "Name": "ACTUALIZAR SERVIDORES",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": ""       
+        },
+        {
+            "Name": "MOVISTAR SIN RESES 1🌐",
+            "FLAG": "oi",
+            "Payload": "",
+            "SNI": "www.googletagmanager.com",
+            "TlsIP": "",
+            "ProxyIP": "20.199.169.199",
+            "ProxyPort": "443",
+            "Info": "Ssl"         
+        },
+        {
+            "Name": "MOVISTAR SIN REDES 2🌐",
+            "FLAG": "oi",
+            "Payload": "",
+            "SNI": "www.google.com",
+            "TlsIP": "",
+            "ProxyIP": "20.199.169.199",
+            "ProxyPort": "443",
+            "Info": "Ssl"         
+        }
+    ]
+}

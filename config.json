@@ -1,5 +1,5 @@
 {
-   "Version": "1.1.1",
+   "Version": "1.1.2",
     "ReleaseNotes": "HAY UNA NUEVA ACTUALIZACIO😎",
     "UrlUpdate": "https://raw.githubusercontent.com/cluponder/cluponder/refs/heads/main/config.json",
     "Sms": "",
@@ -33,7 +33,7 @@
     ],
         "Servers": [
         {
-            "Name": "VC VPN PREMIUM",
+            "Name": "VC VPN PREMIUM 1.1.2",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "20.120.227.140",

@@ -1,5 +1,5 @@
 {
-   "Version": "1.1.4",
+   "Version": "1.1.5",
     "ReleaseNotes": "HAY UNA NUEVA ACTUALIZACIO😎",
     "UrlUpdate": "https://raw.githubusercontent.com/cluponder/cluponder/refs/heads/main/config.json",
     "Sms": "",
@@ -33,7 +33,7 @@
     ],
         "Servers": [
         {
-            "Name": "VC VPN PREMIUM 1.1.4",
+            "Name": "VC VPN PREMIUM 1.1.5",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "24.144.82.119",
@@ -60,6 +60,16 @@
             "FLAG": "oi",
             "Payload": "",
             "SNI": "www.google.com",
+            "TlsIP": "",
+            "ProxyIP": "24.144.82.119",
+            "ProxyPort": "443",
+            "Info": "Ssl"         
+        },
+        {
+            "Name": "MOVISTAR SIN REDES 3🇸🇻",
+            "FLAG": "oi",
+            "Payload": "",
+            "SNI": "sdk.iad-03.braze.com",
             "TlsIP": "",
             "ProxyIP": "24.144.82.119",
             "ProxyPort": "443",

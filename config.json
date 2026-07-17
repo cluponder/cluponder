@@ -61,7 +61,7 @@
             "Payload": "",
             "SNI": "www.google.com",
             "TlsIP": "",
-            "ProxyIP": "una.cluponder.site",
+            "ProxyIP": "dos.cluponder.site",
             "ProxyPort": "443",
             "Info": "Ssl"         
         },

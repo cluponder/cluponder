@@ -1,5 +1,5 @@
 {
-   "Version": "1.1.6",
+   "Version": "1.1.7",
     "ReleaseNotes": "HAY UNA NUEVA ACTUALIZACIO😎",
     "UrlUpdate": "https://raw.githubusercontent.com/cluponder/cluponder/refs/heads/main/config.json",
     "Sms": "",
@@ -33,7 +33,7 @@
     ],
         "Servers": [
         {
-            "Name": "VC VPN PREMIUM 1.1.6",
+            "Name": "VC VPN PREMIUM 1.1.7",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "24.144.82.119",
@@ -61,7 +61,7 @@
             "Payload": "",
             "SNI": "www.google.com",
             "TlsIP": "",
-            "ProxyIP": "24.144.82.119",
+            "ProxyIP": "una.cluponder.site",
             "ProxyPort": "443",
             "Info": "Ssl"         
         },
